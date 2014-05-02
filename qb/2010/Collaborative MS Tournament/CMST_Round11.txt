@@ -7,8 +7,6 @@ year: 2013
 num: 1
 category: History
 difficulty: MS
-fixed: 1
-seen: 2829
 answer: Abraham {Lincoln}
 
 This politician objected to the Mexican War by giving his Spot Resolutions. This leader gave the "House Divided" speech, and he engaged in a series of debates with Stephen (*) Douglas during the 1858 Senate election. The Emancipation Proclamation was signed by this president, who was shot in Ford's Theatre by John Wilkes Booth. For 10 points, name this president who served during the Civil War. 
