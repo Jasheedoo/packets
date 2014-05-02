@@ -6,7 +6,7 @@ year: 2013
 
 num: 1
 category: History
-difficulty: Middle School
+difficulty: MS
 answer: Abraham Lincoln
 
 This politician objected to the Mexican War by giving his Spot Resolutions. This leader gave the "House 
