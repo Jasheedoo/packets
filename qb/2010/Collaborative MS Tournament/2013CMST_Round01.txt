@@ -1,0 +1,21 @@
+####
+tournament: Collaborative MS Tournament
+round: CMST_Round01.pdf
+year: 2013
+####
+
+num: 1
+category: History
+difficulty: MS
+answer: Abraham {Lincoln}
+
+This politician objected to the Mexican War by giving his Spot Resolutions. This leader gave the "House Divided" speech, and he engaged in a series of debates with Stephen (*) Douglas during the 1858 Senate election. The Emancipation Proclamation was signed by this president, who was shot in Ford's Theatre by John Wilkes Booth. For 10 points, name this president who served during the Civil War.
+
+----
+num:2
+category: Science
+difficulty: MS
+answer: programming languages [accept {computer languages}; accept {scripting languages}; prompt on 
+"programs"; prompt on "languages"] 
+
+Some of these are statically typed, while others are duck typed or dynamically typed. Many of them must be used in conjunction with a compiler, such as one of them created in the 1970s by Dennis Ritchie, which is named for a letter of the alphabet and has a (*) "plus plus" variety. For 10 points, name these constructs such as Ruby, Python, Java, and C, that provide a way to give instructions to computers.
